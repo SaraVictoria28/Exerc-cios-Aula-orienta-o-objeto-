@@ -1,0 +1,14 @@
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\Revisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\Revisa.AssemblyInfoInputs.cache
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\Revisa.AssemblyInfo.cs
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\Revisa.csproj.CoreCompileInputs.cache
+C:\Users\429438624\Documents\Revisa\bin\Debug\net8.0\Revisa.exe
+C:\Users\429438624\Documents\Revisa\bin\Debug\net8.0\Revisa.deps.json
+C:\Users\429438624\Documents\Revisa\bin\Debug\net8.0\Revisa.runtimeconfig.json
+C:\Users\429438624\Documents\Revisa\bin\Debug\net8.0\Revisa.dll
+C:\Users\429438624\Documents\Revisa\bin\Debug\net8.0\Revisa.pdb
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\Revisa.dll
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\refint\Revisa.dll
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\Revisa.pdb
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\Revisa.genruntimeconfig.cache
+C:\Users\429438624\Documents\Revisa\obj\Debug\net8.0\ref\Revisa.dll
