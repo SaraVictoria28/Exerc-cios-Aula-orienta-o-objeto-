@@ -1,0 +1,14 @@
+C:\Users\429438624\Documents\Teste-orientacao\bin\Debug\net8.0\Teste-orientacao.exe
+C:\Users\429438624\Documents\Teste-orientacao\bin\Debug\net8.0\Teste-orientacao.deps.json
+C:\Users\429438624\Documents\Teste-orientacao\bin\Debug\net8.0\Teste-orientacao.runtimeconfig.json
+C:\Users\429438624\Documents\Teste-orientacao\bin\Debug\net8.0\Teste-orientacao.dll
+C:\Users\429438624\Documents\Teste-orientacao\bin\Debug\net8.0\Teste-orientacao.pdb
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\Teste-orientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\Teste-orientacao.AssemblyInfoInputs.cache
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\Teste-orientacao.AssemblyInfo.cs
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\Teste-orientacao.csproj.CoreCompileInputs.cache
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\Teste-orientacao.dll
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\refint\Teste-orientacao.dll
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\Teste-orientacao.pdb
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\Teste-orientacao.genruntimeconfig.cache
+C:\Users\429438624\Documents\Teste-orientacao\obj\Debug\net8.0\ref\Teste-orientacao.dll
